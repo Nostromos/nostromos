@@ -1,16 +1,21 @@
-## Hi there 👋
+[`🏠 what.lol`](https://what.lol/)
+[`📫 mike@monaghan.nyc`](mailto:mike@monaghan.nyc)
+[`🐦 @earnestposting`](https://twitter.com/earnestposting)
+[`🗝️ A1F6 73DB B17E 7291`](https://keybase.io/nostromos/pgp_keys.asc)
 
-<!--
-**Nostromos/nostromos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Past
+---
+I was a Technical Recruiter and Manager for 10 years at Etsy, Blue Apron, InterviewJet, and Datadog. Went through 3 IPOs.
 
-Here are some ideas to get you started:
+# Present
+---
+Currently in NYC. Prior to that, I lived in South Africa, China, and Jordan for high school and the first part of college. Ask me about it!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Now, learning Javascript & Golang - mostly focused on full stack web but dabbling in a few areas.
+
+Also, taking care of a baby, two cats, and my incredible wife.
+
+
+# Future
+---
+Who knows?
