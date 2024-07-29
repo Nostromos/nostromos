@@ -1,9 +1,6 @@
-[`🏠 what.lol`](https://what.lol/)
-
-[`📫 mike@monaghan.nyc`](mailto:mike@monaghan.nyc)
-
-[`🐦 @earnestposting`](https://twitter.com/earnestposting)
-
+[`🏠 what.lol`](https://what.lol/) /
+[`📫 mike@monaghan.nyc`](mailto:mike@monaghan.nyc) /
+[`🐦 @earnestposting`](https://twitter.com/earnestposting) /
 [`🗝️ A1F6 73DB B17E 7291`](https://keybase.io/nostromos/pgp_keys.asc)
 
 
