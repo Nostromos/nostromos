@@ -5,11 +5,10 @@
 
 
 ### Past
-I was a Tech Recruiter and Manager for 10 years at [Etsy](https://etsy.com), [Blue Apron](https://blueapron.com), [InterviewJet](https://www.crunchbase.com/organization/interviewjet), and [Datadog](https://datadog.com).
+Former Tech Recruiter and Manager at [Etsy](https://etsy.com), [Blue Apron](https://blueapron.com), [InterviewJet](https://www.crunchbase.com/organization/interviewjet), and [Datadog](https://datadog.com).
 
 ### Present
-Currently in NYC. Prior to that, I lived in South Africa, China, and Jordan. Ask me about it!
+Typescript, Python, & Golang. 
 
-Now, learning Typescript & Golang - mostly focused on full stack web but dabbling in a few areas.
-
-Also, taking care of a baby, two cats, and my incredible wife.
+### Personal
+Baby, two cats, and an incredible wife.
