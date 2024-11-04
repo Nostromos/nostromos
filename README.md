@@ -1,3 +1,6 @@
+> [!NOTE]  
+> Recruiters, the huge gap this year is because my wife and I had a baby, so I took some time off.
+
 [`🏠 what.lol`](https://what.lol/) /
 [`📫 mike@monaghan.nyc`](mailto:mike@monaghan.nyc) /
 [`🐦 @earnestposting`](https://twitter.com/earnestposting) /
