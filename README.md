@@ -7,7 +7,4 @@
 Typescript & Golang. 
 
 ### Past
-- Tech Recruiting Manager at [Datadog](https://datadog.com)
-- Tech Recruiter [Blue Apron](https://blueapron.com)
-- Recruiting, Business Development, and Sales at [InterviewJet](https://www.crunchbase.com/organization/interviewjet)
-- Sourcing at [Etsy](https://etsy.com)
+[Datadog](https://datadog.com), [Blue Apron](https://blueapron.com), [InterviewJet](https://www.crunchbase.com/organization/interviewjet), and [Etsy](https://etsy.com)
