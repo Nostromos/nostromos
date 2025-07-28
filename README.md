@@ -9,4 +9,4 @@
 ### Present
 I’m a **Full Stack Software Engineer** proficient in TypeScript, Go, React, and Next.js, focused on building progressive and accessible Full Stack Web experiences. I enjoy solving complex problems and delight in delivering solutions that make money and bring joy to users.
 
-Formerly at [Datadog](https://datadog.com), [Blue Apron](https://blueapron.com), [InterviewJet](https://www.crunchbase.com/organization/interviewjet), and [Etsy](https://etsy.com)
+Formerly at [Datadog](https://datadog.com), [Blue Apron](https://blueapron.com), [InterviewJet](https://www.crunchbase.com/organization/interviewjet), and [Etsy](https://etsy.com).
