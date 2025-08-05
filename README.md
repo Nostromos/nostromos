@@ -3,7 +3,7 @@
 🐦 [`@earnestposting`](https://twitter.com/earnestposting) /
 🗝️ [`8623 5DF8 6D30 58D3`](https://keybase.io/mikemonaghan/pgp_keys.asc)
 
-> [!NOTE]
+> [!TIP]
 > I'm looking for work! Reach out at the email above. To learn more about my motivations and what I'm looking for, [read this](https://what.lol/blog/what-im-looking-for/).
 
 ### Present
