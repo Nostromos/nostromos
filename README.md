@@ -3,9 +3,6 @@
 🐦 [`@earnestposting`](https://twitter.com/earnestposting) /
 🗝️ [`8623 5DF8 6D30 58D3`](https://keybase.io/mikemonaghan/pgp_keys.asc)
 
-> [!TIP]
-> I'm looking for work! Reach out at the email above. To learn more about my motivations and what I'm looking for, [read this](https://what.lol/blog/what-im-looking-for/).
-
 ### Present
 I'm a Full Stack Software Engineer who builds beautiful and performant web experiences using TypeScript, Go, Next.js, and Tailwind, taking products from concept to deployment. Specialized in integrating LLMs to create intelligent, context-aware features that delight users and solve real-world problems. 
 
